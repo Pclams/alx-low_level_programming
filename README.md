@@ -1,1 +1,1 @@
-Introduction to C-Programme
+C - Pointers, arrays and strings
